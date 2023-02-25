@@ -1,7 +1,11 @@
 ### Hi👋, I'm Roman Yuklenchuk 
 
-🌱 I'm currently studying at the Kharkiv National University of Radio Electronics.
-📫 How to reach me roma.yuklenchuk@gmail.com
+<ul>
+    <li>🌱 I'm currently studying at the Kharkiv National University of Radio Electronics.</li>
+    <li>📫 How to reach me roma.yuklenchuk@gmail.com</li>
+</ul>
+
+
 
 ### 🧰 Languages and Tools
 <img alt='Python' align='left' width='30px' style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
